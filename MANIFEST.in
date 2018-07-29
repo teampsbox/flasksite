@@ -1,4 +1,0 @@
-include flasksite/schema.sql
-graft flasksite/static
-graft flasksite/templates
-global-exclude *.pyc
